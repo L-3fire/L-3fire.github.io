@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f1f1f1;
+}
+
+.product {
+    width: 270px;
+    height: 253px;
+    margin: 49px auto;
+    padding: 40px;
+    background-color: #fff;
+    
+
+    text-align: center;
+    color: #000;
+
+    border-radius: 10px;
+}
+
+.product h4 {
+    margin: 23px auto 14px;
+
+    font-size: 16px;
+    color: #333;
+    font-weight: normal;
+}
+
+.product p {
+    font-size: 12px;
+    color: #555;
+}
